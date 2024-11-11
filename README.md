@@ -8,7 +8,7 @@
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Rushi-code1&color=green)
 
-🔗 [Portfolio](https://rushi-code1.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/rushikesh8468970166) | [Email](mailto:rd12006789@gmail.com)
+🔗 [Portfolio](https://rushi-code1.github.io/portfolio2/) | [LinkedIn](https://www.linkedin.com/in/rushikesh8468970166) | [Email](mailto:rd12006789@gmail.com)
 
 ## 🎯 About Me
 I am a highly motivated and detail-oriented **Software Engineer** with a strong foundation in **Computer Science and Engineering**. My expertise lies in **C, C++, Java, JavaScript, ReactJS, and Python**, and I am well-versed in a variety of technologies and frameworks, including **Flask, Django, MongoDB, AWS Cloud, and more**. My educational background and practical experience have equipped me with the skills necessary to tackle complex problems and develop efficient, scalable solutions.
