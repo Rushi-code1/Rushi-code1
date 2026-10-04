@@ -78,8 +78,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushi-code1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushi-code1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rushi-code1&show_icons=true&theme=tokyonight&hide_border=true" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushi-code1&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
 </p>
 
 <p align="center">
